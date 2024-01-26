@@ -1,0 +1,14 @@
+D:\Projetos\Repositorio\Pensionato\Pensionato\bin\Debug\net8.0\Pensionato.exe
+D:\Projetos\Repositorio\Pensionato\Pensionato\bin\Debug\net8.0\Pensionato.deps.json
+D:\Projetos\Repositorio\Pensionato\Pensionato\bin\Debug\net8.0\Pensionato.runtimeconfig.json
+D:\Projetos\Repositorio\Pensionato\Pensionato\bin\Debug\net8.0\Pensionato.dll
+D:\Projetos\Repositorio\Pensionato\Pensionato\bin\Debug\net8.0\Pensionato.pdb
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\Pensionato.AssemblyInfoInputs.cache
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\Pensionato.AssemblyInfo.cs
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\Pensionato.csproj.CoreCompileInputs.cache
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\Pensionato.dll
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\refint\Pensionato.dll
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\Pensionato.pdb
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\Pensionato.genruntimeconfig.cache
+D:\Projetos\Repositorio\Pensionato\Pensionato\obj\Debug\net8.0\ref\Pensionato.dll

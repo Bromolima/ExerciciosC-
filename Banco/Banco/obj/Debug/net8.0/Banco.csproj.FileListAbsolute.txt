@@ -1,0 +1,14 @@
+D:\Projetos\Repositorio\Banco\Banco\bin\Debug\net8.0\Banco.exe
+D:\Projetos\Repositorio\Banco\Banco\bin\Debug\net8.0\Banco.deps.json
+D:\Projetos\Repositorio\Banco\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+D:\Projetos\Repositorio\Banco\Banco\bin\Debug\net8.0\Banco.dll
+D:\Projetos\Repositorio\Banco\Banco\bin\Debug\net8.0\Banco.pdb
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\Banco.dll
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\refint\Banco.dll
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\Banco.pdb
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+D:\Projetos\Repositorio\Banco\Banco\obj\Debug\net8.0\ref\Banco.dll

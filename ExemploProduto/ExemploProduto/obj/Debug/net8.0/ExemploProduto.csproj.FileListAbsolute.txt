@@ -1,0 +1,14 @@
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\bin\Debug\net8.0\ExemploProduto.exe
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\bin\Debug\net8.0\ExemploProduto.deps.json
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\bin\Debug\net8.0\ExemploProduto.runtimeconfig.json
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\bin\Debug\net8.0\ExemploProduto.dll
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\bin\Debug\net8.0\ExemploProduto.pdb
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\ExemploProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\ExemploProduto.AssemblyInfoInputs.cache
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\ExemploProduto.AssemblyInfo.cs
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\ExemploProduto.csproj.CoreCompileInputs.cache
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\ExemploProduto.dll
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\refint\ExemploProduto.dll
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\ExemploProduto.pdb
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\ExemploProduto.genruntimeconfig.cache
+D:\Projetos\Repositorio\ExemploProduto\ExemploProduto\obj\Debug\net8.0\ref\ExemploProduto.dll

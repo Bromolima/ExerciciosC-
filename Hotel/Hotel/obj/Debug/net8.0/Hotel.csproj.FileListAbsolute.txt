@@ -1,0 +1,14 @@
+D:\Projetos\Repositorio\Hotel\Hotel\bin\Debug\net8.0\Hotel.exe
+D:\Projetos\Repositorio\Hotel\Hotel\bin\Debug\net8.0\Hotel.deps.json
+D:\Projetos\Repositorio\Hotel\Hotel\bin\Debug\net8.0\Hotel.runtimeconfig.json
+D:\Projetos\Repositorio\Hotel\Hotel\bin\Debug\net8.0\Hotel.dll
+D:\Projetos\Repositorio\Hotel\Hotel\bin\Debug\net8.0\Hotel.pdb
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\Hotel.AssemblyInfoInputs.cache
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\Hotel.AssemblyInfo.cs
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\Hotel.csproj.CoreCompileInputs.cache
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\Hotel.dll
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\refint\Hotel.dll
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\Hotel.pdb
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\Hotel.genruntimeconfig.cache
+D:\Projetos\Repositorio\Hotel\Hotel\obj\Debug\net8.0\ref\Hotel.dll

@@ -1,0 +1,14 @@
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.exe
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.deps.json
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.runtimeconfig.json
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.dll
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\bin\Debug\net8.0\ExemploMatriz.pdb
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.AssemblyInfoInputs.cache
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.AssemblyInfo.cs
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.csproj.CoreCompileInputs.cache
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.dll
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\refint\ExemploMatriz.dll
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.pdb
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ExemploMatriz.genruntimeconfig.cache
+D:\Projetos\Repositorio\ExemploMatriz\ExemploMatriz\obj\Debug\net8.0\ref\ExemploMatriz.dll

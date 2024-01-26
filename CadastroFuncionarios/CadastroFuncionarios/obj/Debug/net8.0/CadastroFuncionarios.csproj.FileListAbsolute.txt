@@ -1,0 +1,14 @@
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\net8.0\CadastroFuncionarios.exe
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\net8.0\CadastroFuncionarios.deps.json
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\net8.0\CadastroFuncionarios.runtimeconfig.json
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\net8.0\CadastroFuncionarios.dll
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\bin\Debug\net8.0\CadastroFuncionarios.pdb
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\CadastroFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\CadastroFuncionarios.AssemblyInfoInputs.cache
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\CadastroFuncionarios.AssemblyInfo.cs
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\CadastroFuncionarios.csproj.CoreCompileInputs.cache
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\CadastroFuncionarios.dll
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\refint\CadastroFuncionarios.dll
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\CadastroFuncionarios.pdb
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\CadastroFuncionarios.genruntimeconfig.cache
+D:\Projetos\Repositorio\CadastroFuncionarios\CadastroFuncionarios\obj\Debug\net8.0\ref\CadastroFuncionarios.dll

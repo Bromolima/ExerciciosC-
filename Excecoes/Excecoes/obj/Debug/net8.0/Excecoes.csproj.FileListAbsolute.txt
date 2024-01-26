@@ -1,0 +1,14 @@
+D:\Projetos\Repositorio\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.exe
+D:\Projetos\Repositorio\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.deps.json
+D:\Projetos\Repositorio\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.runtimeconfig.json
+D:\Projetos\Repositorio\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.dll
+D:\Projetos\Repositorio\Excecoes\Excecoes\bin\Debug\net8.0\Excecoes.pdb
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfoInputs.cache
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfo.cs
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.csproj.CoreCompileInputs.cache
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.dll
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\refint\Excecoes.dll
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.pdb
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\Excecoes.genruntimeconfig.cache
+D:\Projetos\Repositorio\Excecoes\Excecoes\obj\Debug\net8.0\ref\Excecoes.dll
